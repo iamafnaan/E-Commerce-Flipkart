@@ -1,6 +1,6 @@
-# Flipkart Clone - E-commerce Platform with ReactJS and Redux
+# Flipkart Clone - E-commerce Platform with ReactJS
 
-The Flipkart Clone is a comprehensive e-commerce platform developed using ReactJS and Redux, providing users with an immersive online shopping experience. With seamless user authentication, detailed product descriptions, and intuitive cart management, the Flipkart Clone replicates key functionalities of the popular e-commerce website Flipkart, catering to the needs of modern shoppers.
+The Flipkart Clone is a comprehensive e-commerce platform developed using ReactJS, providing users with an immersive online shopping experience. With seamless user authentication, detailed product descriptions, and intuitive cart management, the Flipkart Clone replicates key functionalities of the popular e-commerce website Flipkart, catering to the needs of modern shoppers.
 
 ## Features
 - **Login/Signup:** To access the platform's features and ensure a customised shopping experience, users can easily create accounts or log in.
@@ -27,7 +27,6 @@ The entire website is made to be fully responsive, guaranteeing the best possibl
 
 ## Technologies Used
 - ReactJS: Frontend development framework for building user interfaces
-- Redux: State management library for managing application state
 - JavaScript: Programming language used for implementing dynamic functionality
 - Responsive Design: Ensures optimal user experience across devices
 
