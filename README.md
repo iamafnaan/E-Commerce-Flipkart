@@ -17,7 +17,7 @@ The entire website is made to be fully responsive, guaranteeing the best possibl
 - Node.js installed on your machine
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/yourusername/flipkart-clone.git`
+1. Clone the repository: `git clone https://github.com/iamafnaan/flipkart-clone.git`
 2. Navigate to the project directory: `cd flipkart-clone`
 3. Install dependencies: `npm install`
 
